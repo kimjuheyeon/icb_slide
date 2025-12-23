@@ -1,0 +1,5 @@
+| species   |   Biscoe |   Dream |   Torgersen |
+|:----------|---------:|--------:|------------:|
+| Adelie    |       44 |      55 |          47 |
+| Chinstrap |        0 |      68 |           0 |
+| Gentoo    |      119 |       0 |           0 |
